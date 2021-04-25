@@ -2,6 +2,7 @@
     "products": [
         {"name": "candy"},
         {"name": "soap"},
-        {"name": "toy"}
+        {"name": "toy"},
+        {"name": "computer"}
     ]
 }
