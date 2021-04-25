@@ -3,6 +3,7 @@
         {"name": "candy"},
         {"name": "soap"},
         {"name": "toy"},
-        {"name": "computer"}
+        {"name": "computer"},
+        {"name": "box"}
     ]
 }
